@@ -63,4 +63,5 @@ To run the script, execute the following command:
 python gaming_mat_generator.py
 ```
 
-### If you need any help, reach me out - hello@arshadzackeriya.com
+# Contact
+For questions, suggestions, or discussions, feel free to open an issue.
